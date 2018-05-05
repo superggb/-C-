@@ -1,0 +1,13 @@
+if((buffer+i)>=n)
+            i++;
+            continue;
+              //跳过换行
+            
+
+            /*if(*(buffer+i)<=  )*/
+              if(*(buffer+i+1):=)
+                while(*(buffer+i+1)==  )
+                i++;
+                continue;//跳过空格
+              
+            

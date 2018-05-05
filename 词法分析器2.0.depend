@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523759580 source:c:\users\jie\documents\杰哥实验\编译原理\词法分析器2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1523177328 source:c:\users\jie\documents\杰哥实验\编译原理\词法分析器2.0\dictionary.c
+	<stdio.h>
+
+1523177215 c:\users\jie\documents\杰哥实验\编译原理\词法分析器2.0\dictionary.c
+
